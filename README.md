@@ -1,2 +1,2 @@
 # RISC-V_Assembler
-Implementig RISC-V Assembler with python
+Implementig some basis instructions of RISC-V Assembler with python
